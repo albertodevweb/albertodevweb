@@ -39,7 +39,7 @@ Estas são algumas das tecnologias e ferramentas que trabalho:
 
 | Minhas Estatísticas                                                                                                                                   | Principais Linguagens                                                                                                                                           |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=albertomoiseiscode&show_icons=true&hide_border=true&theme=dracula) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=albertomoiseiscode&langs_count=14&hide_border=true&theme=dracula&layout=compact) |
+| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=oxedevbr&show_icons=true&hide_border=true&theme=dracula) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oxedevbr&langs_count=14&hide_border=true&theme=dracula&layout=compact) |
 
 ## &nbsp;Social Links
 
