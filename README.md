@@ -3,35 +3,34 @@
   🔥 Bem Vindo(a) :)
 </h1>
 
+### Sobre mim: <br />
 <p>
-  Olá, sou Alberto Moiseis, um entusiasta do desenvolvimento front-end apaixonado por criatividade e inovação. Estou em busca de oportunidades para aplicar minhas habilidades e impactar positivamente projetos através da tecnologia.
+Sou Alberto Moiseis, desenvolvedor Front-End com experiência em HTML, CSS, JavaScript, React, Bootstrap e Node.js. Tenho habilidades em consumo de APIs públicas e integração de dados para criar interfaces dinâmicas e funcionais que melhoram a experiência do usuário.
 </p>
 
-### Sobre mim:
+<p>
+Faço parte de um grupo de gestão e desenvolvimento de sites e sistemas, onde colaboro para criar soluções que aliam qualidade, inovação e agilidade. Minha trajetória inclui experiências em empresas privadas, setor público e como freelancer, além de projetos sociais nos quais ajudei a formar jovens em TI – algo que valorizo muito e que me trouxe uma visão prática e colaborativa da área.
+</p>
 
-  Sou um entusiasta do desenvolvimento front-end, apaixonado por criatividade e inovação. Além disso, gosto de ajudar pessoas que estão iniciando na área de  programação atraves da comunidade dev que sou adm [Grupo do Facebook](https://www.facebook.com/groups/2249002278688933), negócios e desenvolvimento pessoal. Meu objetivo é crescer constantemente e impactar positivamente a vida das pessoas por meio da tecnologia, criando ferramentas que facilitem o dia a dia de indivíduos ao redor do mundo.
+<p>
+Sou apaixonado por aprender novas tecnologias, resolver problemas de forma criativa e estar em constante aprimoramento. Valorizo o trabalho em equipe e acredito que a comunicação clara e a dedicação são essenciais para entregar soluções eficientes e inovadoras.
+</p>
+
 
 
 ## ⚡ Tecnologias:
 
 Estas são algumas das tecnologias e ferramentas que trabalho:
-<p>
-  Trabalho com HTML5, CSS3, SASS, e Bootstrap para criar interfaces modernas e responsivas. Além disso, tenho experiência sólida em JavaScript para interatividade dinâmica em aplicações web.
-</p>
 
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-<p>
-  Também possuo conhecimentos em Java e MySQL para desenvolvimento back-end e gerenciamento de bancos de dados.
-</p>
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 <br>
 
